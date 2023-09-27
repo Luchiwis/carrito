@@ -1,0 +1,16 @@
+.productos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 70%;
+    max-width: 1200px;
+    padding: 0 15px;
+    border: 2px ridge orange;
+
+}
+
+.producto{
+    margin: 10px;
+}
